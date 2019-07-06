@@ -1,2 +1,1 @@
-# sock.py
-socket magic
+Developed an application that optimizes the process of sending encrypted data files back and forth in a sized window(packet distribution limit).TCP application to send and receive files in small data packets encrypted by a set of keys to ensure data integrity. Encryption using public and private keys for data transfer.
